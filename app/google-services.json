@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816792398443",
+    "project_id": "cardshop-c60de",
+    "storage_bucket": "cardshop-c60de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816792398443:android:4e99e6af83de92ff45df2e",
+        "android_client_info": {
+          "package_name": "com.pierretest.cardstoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJlxva6a6LjyAEybMpfDWDWfcLnihrxq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
